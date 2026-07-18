@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Georgios 👋
 
-<!--
-**gaslanidis17/gaslanidis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI-native Operations Specialist with experience managing marketplace performance across nine countries.
 
-Here are some ideas to get you started:
+My work sits at the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Marketplace operations
+- AI-assisted development
+- Analytics and business intelligence
+- Workflow automation
+- Process design
+- Cross-functional execution
+
+I use Claude, Claude Code, Cursor, SQL, JavaScript, Apps Script, HTML, Looker, and other tools to turn operational problems into practical and scalable solutions.
+
+## What I build
+
+- Internal operational tools and web applications
+- Automated reporting and documentation workflows
+- Multi-market KPI and SLA monitoring systems
+- Stakeholder self-service platforms
+- AI-assisted operational processes
+
+## Current focus
+
+I'm currently building public, independent portfolio projects using synthetic data to demonstrate practical applications of AI and automation in marketplace operations.
+
+## Featured projects
+
+Projects coming soon:
+
+- Marketplace Health Copilot
+- Automated Stakeholder Portal
+- Multi-Market KPI Dashboard
+- Operations Prompt Library
+
+## Background
+
+- Operations Specialist, Courier Strategy & Innovation
+- Marketplace performance ownership across nine countries
+- BSc in Electrical & Computer Engineering
+- Based in Thessaloniki, Greece
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/georgios-aslanidis)
